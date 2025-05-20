@@ -15,3 +15,5 @@ Validation_density_2/*.npy
 
 Validation_resized_2/*.mat
 Validation_resized_2/*.jpg
+
+*.rar
