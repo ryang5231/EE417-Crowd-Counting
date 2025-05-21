@@ -1,19 +1,23 @@
-Test_resized_2/*.mat
-Test_resized_2/*.jpg
+# Test_resized_2/*.mat
+# Test_resized_2/*.jpg
 
-Test_density_2/*.npy
-Test_density_2/*.png
+# Test_density_2/*.npy
+# Test_density_2/*.png
 
-Train_resized_2/*.mat
-Train_resized_2/*.jpg
+# Train_resized_2/*.mat
+# Train_resized_2/*.jpg
 
-Train_density_2/*.png
-Train_density_2/*.npy
+# Train_density_2/*.png
+# Train_density_2/*.npy
 
-Validation_density_2/*.png
-Validation_density_2/*.npy
+# Validation_density_2/*.png
+# Validation_density_2/*.npy
 
-Validation_resized_2/*.mat
-Validation_resized_2/*.jpg
+# Validation_resized_2/*.mat
+# Validation_resized_2/*.jpg
 
 *.rar
+*.png
+*.mat
+*.jpg
+*.npy
