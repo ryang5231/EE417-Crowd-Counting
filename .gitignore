@@ -22,4 +22,4 @@ old_stuff
 *.mat
 *.jpg
 *.npy
-*.pth
+# *.pth
