@@ -18,6 +18,7 @@ Validation_density_2/*.png
 
 *.rar
 # *.png
+old_stuff
 *.mat
 *.jpg
 *.npy
